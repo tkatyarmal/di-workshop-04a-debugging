@@ -1,0 +1,20 @@
+{
+  "name": "di-workshop-04a-debugging",
+  "version": "1.0.0",
+  "description": "How to debug your code",
+  "scripts": {
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adaapp/di-workshop-04a-debugging.git"
+  },
+  "author": "Alex Dytrych <alex@ada.ac.uk>",
+  "bugs": {
+    "url": "https://github.com/adaapp/di-workshop-04a-debugging/issues"
+  },
+  "homepage": "https://github.com/adaapp/di-workshop-04a-debugging#readme",
+  "dependencies": {
+    "serve": "^10.0.2"
+  }
+}
