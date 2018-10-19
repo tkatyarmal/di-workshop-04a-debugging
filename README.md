@@ -7,8 +7,6 @@ This is a facilitated workshop. You should make notes in here though!
 Fork & clone the repo like you would with a normal workshop.
 
 ```sh
-git clone git@github.com:adaapp/di-workshop-04a-debugging.git
-# Or if you have problems with that:
 git clone https://github.com/adaapp/di-workshop-04a-debugging.git
 
 cd di-workshop-04a-debugging
